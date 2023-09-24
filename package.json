@@ -83,7 +83,7 @@
     "@types/lodash": "^4.14.198",
     "@types/node": "^18.17.18",
     "@types/object-hash": "^3.0.4",
-    "@types/pluralize": "^0.0.30",
+    "@types/pluralize": "^0.0.31",
     "@types/semver": "^7.5.2",
     "@types/slug": "^5.0.4",
     "@types/strip-ansi": "^5.2.1",
